@@ -399,7 +399,6 @@ Organizing Department	Department of Technical Training (DoTT)
 Program	One Person Company — AI Agents Bootcamp
 Cohort	3rd-Year Cohort
 Workshop Duration	23 November – 5 December 2026
-Workshop Coordinators	M. Ashok & B. Pavan
 💡 Project Vision
 
 One Human. Multiple AI Agents. One Coordinated Digital Workforce.
